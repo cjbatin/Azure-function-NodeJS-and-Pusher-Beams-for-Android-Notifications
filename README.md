@@ -24,6 +24,6 @@ Clone or download the repo onto your machine. Open the Go function in your favou
 * Microsoft Azure Functions
 
 ### Built with
-* Xcode
+* Android Studio
 * NodeJS
 * Microsoft Azure Functions
