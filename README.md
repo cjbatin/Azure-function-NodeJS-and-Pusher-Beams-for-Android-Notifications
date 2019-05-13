@@ -2,8 +2,7 @@
 
 An example project that accompanies my tutorial on using Azure Functions NodeJS and Pusher Beams for Android Notifications.
 
-https://pusher.com/tutorials/azure-function-nodejs-android-notifications
-
+https://pusher.com/tutorials/azure-nodejs-android-notifications
 ## Getting Started
 
 Clone or download the repo onto your machine. Open the Go function in your favourite text editor and the Android App in Android studio.
